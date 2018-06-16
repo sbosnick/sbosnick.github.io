@@ -1,1 +1,11 @@
-theme: jekyll-theme-slate
+theme:          jekyll-theme-slate
+
+# Setup
+title:          Dissenting Opinion
+description:    A Personal Blog for Steven Bosnick
+
+# About / Contact
+author:
+    name:       Steven Bosnick
+    email:      sbosnick@sympatico.ca
+
