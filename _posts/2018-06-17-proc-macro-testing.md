@@ -2,6 +2,7 @@
 layout: post
 title: "Procedural Macro Testing in Rust"
 categories: testing
+comments: true
 ---
 As my inaugural post I wanted to share a technique I put together for testing
 procedural macros in Rust. This came up as a part of implementing my embedded
