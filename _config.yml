@@ -3,6 +3,9 @@ theme:          jekyll-theme-slate
 # Setup
 title:          Dissenting Opinion
 description:    A Personal Blog for Steven Bosnick
+#
+# Site wide toggle for Disqus comments
+comments:   true
 
 # About / Contact
 author:
